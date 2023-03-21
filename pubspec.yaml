@@ -54,7 +54,7 @@ dependencies:
   timeago: ^3.1.0
 
   #for http connection
-  dio: ^4.0.4
+  dio: ^5.0.3
 
   #for responsiveness
   flutter_screenutil: ^5.0.1
